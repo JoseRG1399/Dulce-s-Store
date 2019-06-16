@@ -11,5 +11,5 @@
         </div>
     </div>
 <?php include'footer.php';?>
- padding: 1rem;
-<?php include'footer2.php';?>
+
+

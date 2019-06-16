@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Registro de usuario</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/custom.css">
-</head>
-<body>
-    <?php include("nav3.html");?>
-<div class="container" style="position: relative; left: 17rem; top: 3rem;">
-<div class="col-sm-8 ">
-            <div class="col-sm-8 ">
+
                 <form action="alta.php" method="post">
 <table class="table table-dark">
 <tr>

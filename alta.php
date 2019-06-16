@@ -16,5 +16,5 @@ if(!$conexion){
 }else{
 	mysqli_query($conexion,"insert into `usuario` values(default, '$nom','$ap','$am','$fech','$nat','$genero','$telefono','$nick','$passw','$cpassw')") or die ("Error en consulta");
 }
-header('Location:inicio.php? id=$reg[0]');
+header('Location:index.php');
 ?>
